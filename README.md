@@ -26,3 +26,7 @@ Public page: **`index.html`** — served via GitHub Pages once enabled.
 ## Provenance
 
 The underlying capability is the single-stack reasoning engine documented in the Hawkins twin platform baseline (`hawkins-twin-platform/platform/`), itself distilled from the Steel Cloud Discovery briefings. Confidential — prepared for Jeff Eden and team.
+
+---
+
+© 2026 Dany Theriault. EVE “digital stem cell” glyph and glyph-based design principles — all rights reserved. Stewardship of rights of use and assignment for large public and institutional usage rests with the Pacific Utilities Design Council. Published as a time-stamped record of authorship and intent.
